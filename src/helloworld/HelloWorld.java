@@ -22,6 +22,6 @@ public class HelloWorld {
         System.out.println("Hello World ");
 }
    public void test(){
-     
+     System.out.println("Hello World ");
    } 
 }
